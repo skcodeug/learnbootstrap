@@ -1,0 +1,7 @@
+.container > .row > .col-7 > p {
+  color: blue;
+}
+
+.container-fluid > p {
+  color: red; 
+}
